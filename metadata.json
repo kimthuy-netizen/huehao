@@ -1,0 +1,6 @@
+{
+  "name": "Vật Liệu Xây Dựng Huệ Hảo",
+  "description": "Website bán hàng Vật Liệu Xây Dựng Huệ Hảo: xi măng Hà Tiên & Acifa, sắt thép 6-14, hộp vuông kẽm, cát đá, gạch xây & ốp lát, sơn Tison, keo Weber, ống nhựa, TBVS Luxta, Letton & Toàn Mỹ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

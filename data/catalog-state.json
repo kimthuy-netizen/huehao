@@ -1,0 +1,446 @@
+{
+  "updatedAt": "2026-11-23T13:51:52.364Z",
+  "theme": "red-cream",
+  "storeProfile": {
+    "brandShort": "VLXD Huệ Hảo",
+    "brandFull": "Vật Liệu Xây Dựng Huệ Hảo",
+    "address": "Khu phố Tân Ba, Phường Thái Hòa, TP. Tân Uyên, Tỉnh Bình Dương",
+    "mergedAddress": "Phường Tân Đông Hiệp, TP. HCM",
+    "phone1": "0913 622 702",
+    "phone2": "0913 884 702",
+    "hours": "07:00 – 17:00 (Thứ 2 – Thứ 7)",
+    "contactDesc": "Quý khách có thể ghé trực tiếp cửa hàng để xem mẫu gạch, thiết bị vệ sinh Luxta, Letton, Toàn Mỹ và bảng màu sơn Tison, hoặc gọi điện để báo giá giao xe tận công trình.",
+    "heroTitle": "Vật Liệu Xây Dựng Huệ Hảo — Đủ hàng, đúng chuẩn cho mọi công trình.",
+    "heroSubtitle": "Chuyên cung cấp trọn gói từ vật liệu phần thô đến hoàn thiện:",
+    "zaloUrl": "https://zalo.me/0913533702",
+    "googleMapsUrl": "https://maps.app.goo.gl/fwkvzw1fnqD9nfcz8",
+    "googleMapsEmbedUrl": "https://maps.google.com/maps?q=10.9680083,106.7788871(V%E1%BA%ADt%20Li%E1%BB%87u%20X%C3%A2y%20D%E1%BB%B1ng%20Hu%E1%BB%87%20H%E1%BA%A3o)&hl=vi&z=16&output=embed",
+    "fanpageUrl": "https://www.facebook.com/profile.php?id=100094545100298",
+    "facebookPersonalUrl": "https://www.facebook.com/profile.php?id=61566811227712",
+    "heroImage": "/uploads/1795359227709_996_unnamed_edited.jpg",
+    "heroBullets": [
+      "Xi măng Hà Tiên chính hãng, cát đá xi măng, gạch ống, gạch đinh, gạch dán tường, lát nền đủ kích cỡ theo yêu cầu.",
+      "Đại lý: Weber khu vực, thiết bị vệ sinh Luxta, American, Inax, Letton, đại lý Toàn Mỹ."
+    ]
+  },
+  "categories": [
+    {
+      "id": "cement",
+      "label": "Xi măng"
+    },
+    {
+      "id": "steel",
+      "label": "Sắt thép & Hộp kẽm"
+    },
+    {
+      "id": "aggregates",
+      "label": "Cát, Đá & Gạch xây"
+    },
+    {
+      "id": "tiles",
+      "label": "Gạch ốp lát & Keo Weber"
+    },
+    {
+      "id": "paint-plumbing",
+      "label": "Sơn Tường"
+    },
+    {
+      "id": "sanitary",
+      "label": "Thiết bị vệ sinh"
+    },
+    {
+      "id": "cat-san-pham-keo-weber",
+      "label": "Sản phẩm keo Weber"
+    }
+  ],
+  "prices": {
+    "xm-hatien-pcb40": 105000,
+    "xm-hatien-xayto": 85000,
+    "xm-acifa-pcb40": 83000,
+    "gach-ong-4lo": 12000,
+    "gach-dinh-dac": 11000,
+    "thep-phi-6": 16500,
+    "thep-phi-8": 16500,
+    "thep-phi-10": 118000,
+    "thep-phi-12": 170000,
+    "thep-phi-14": 232000,
+    "thep-phi-16": 304000,
+    "weber-tai-fix-25kg": 225000,
+    "weber-tai-vis-25kg": 265000,
+    "weber-tai-gres-25kg": 460000,
+    "weber-color-power-1kg": 33000,
+    "sp-1795358482062-v1-062": 95000,
+    "kem-vuong-20x20": 82000,
+    "kem-vuong-30x30": 124000,
+    "kem-vuong-40x40": 196000,
+    "kem-hop-20x40": 126000,
+    "kem-hop-40x80": 298000,
+    "cat-song-vang": 390000,
+    "cat-thuong-xay-to": 295000,
+    "da-mi-bui": 270000,
+    "da-mi-sang": 310000,
+    "da-4x6": 345000,
+    "da-1x2": 385000,
+    "gach-lat-60x60": 215000,
+    "gach-lat-80x80": 295000,
+    "gach-op-30x60": 165000,
+    "gach-san-40x40": 135000,
+    "tison-noi-that-18l": 1180000,
+    "tison-ngoai-that-18l": 1850000,
+    "tison-lot-kiem-18l": 1420000,
+    "tison-chong-tham-20kg": 1790000,
+    "tison-bot-tret-40kg": 315000,
+    "ong-pvc-21": 36000,
+    "ong-pvc-27": 49000,
+    "ong-pvc-60": 128000,
+    "ong-pvc-90": 215000,
+    "ong-pvc-114": 315000,
+    "letton-bon-cau": 3450000,
+    "letton-lavabo-guong": 1680000,
+    "luxta-sen-cay": 2450000,
+    "luxta-voi-lavabo": 890000,
+    "toanmy-bon-inox-1000l": 3350000,
+    "toanmy-bon-inox-1500l": 4750000,
+    "toanmy-bon-nhua-1000l": 2290000,
+    "toanmy-chau-chen-2ngan": 1550000,
+    "letton-chau-chen-duc": 2150000
+  },
+  "availability": {
+    "xi-mang-ha-tien-acifa": "Còn hàng tại kho",
+    "gach-ong-gach-dinh": "Còn hàng tại kho",
+    "sat-thep-xay-dung": "Còn hàng tại kho",
+    "dai-ly-keo-weber": "Đại lý chính hãng",
+    "sp-1795358482062": "Còn hàng tại kho",
+    "thep-hop-vuong-kem": "Còn hàng tại kho",
+    "cat-song-cat-thuong-da-xay-dung": "Còn hàng tại bãi",
+    "gach-op-lat-cac-loai": "Sẵn mẫu tại cửa hàng",
+    "son-tison-cac-loai": "Còn hàng tại kho",
+    "ong-nhua-cap-thoat-nuoc": "Còn hàng tại kho",
+    "thiet-bi-ve-sinh-luxta-letton": "Có sẵn tại cửa hàng",
+    "bon-nuoc-bon-rua-chen-toan-my-letton": "Còn hàng tại kho"
+  },
+  "deletedProductIds": [],
+  "customProducts": [
+    {
+      "id": "sp-1795358482062",
+      "name": "Xi măng Acifa",
+      "category": "cement",
+      "categoryLabel": "Xi măng",
+      "brand": "Công ty CP Xây lắp An giang",
+      "shortDesc": "Xi măng ACIFA là dòng xi măng do Công ty Cổ phần Xây lắp An Giang sản xuất và phân phối (thành lập từ năm 1995, địa chỉ tại TP. Long Xuyên, An Giang). Sản phẩm thuộc nhóm xi măng poóc lăng hỗn hợp (PCB), được nghiền mịn từ clanhke, thạch cao và phụ gia khoáng.",
+      "fullDesc": "ACIFA chủ yếu sử dụng đá vôi (phụ gia đầy giúp tăng độ dẻo, mịn) kết hợp puzơlan (phụ gia hoạt tính) nghiền cùng clinker và thạch cao.",
+      "image": "/uploads/1795358122560_824_baoximangafica3281488185763-265_.jpg",
+      "extraImages": [],
+      "imageAlt": "Xi măng Acifa",
+      "availabilityText": "Còn hàng tại kho",
+      "leadTime": "Giao trong ngày",
+      "bulkNote": "Liên hệ 0913 622 702 để chốt giá số lượng lớn.",
+      "variants": [
+        {
+          "id": "sp-1795358482062-v1-062",
+          "label": "bao",
+          "sku": "HH-2062-1",
+          "unit": "cái",
+          "price": 95000,
+          "stockQty": 100,
+          "weightKg": 10
+        }
+      ],
+      "specs": [
+        {
+          "label": "Công ty CP Xây lắp An giang",
+          "value": "Chính hãng 100%"
+        }
+      ]
+    }
+  ],
+  "editedProducts": {
+    "xi-mang-ha-tien-acifa": {
+      "id": "xi-mang-ha-tien-acifa",
+      "name": "Xi măng Hà Tiên chính hãng",
+      "category": "cement",
+      "categoryLabel": "Xi măng",
+      "brand": "Công ty Cổ phần Xi măng VICEM Hà Tiên",
+      "shortDesc": "Xi măng Hà Tiên PCB40/Xây tô bao 50kg mới xuất kho mỗi ngày, không vón cục.",
+      "fullDesc": "Cung cấp trực tiếp từ nhà máy xi măng Hà Tiên. Bảo quản kho khô ráo trên pallet, đáp ứng cả nhu cầu đổ bê tông móng, cột, dầm sàn (PCB40) và vữa xây trát dẻo mịn (Xây tô).",
+      "image": "/uploads/1795358498122_986_xi-mang-vicem-pcb40_fdf305337291.jpg",
+      "extraImages": [],
+      "imageAlt": "Xi măng Hà Tiên chính hãng",
+      "availabilityText": "Còn hàng tại kho",
+      "leadTime": "Giao trong 2-3 giờ khu vực Tân Uyên",
+      "bulkNote": "Gọi 0913 622 702 để chốt giá tốt khi lấy theo tấn / xe.",
+      "variants": [
+        {
+          "id": "xm-hatien-pcb40",
+          "label": "Xi măng Hà Tiên Đa Dụng PCB40 · Bao 50kg",
+          "sku": "XM-HT-40",
+          "unit": "bao 50kg",
+          "price": 105000,
+          "stockQty": 100,
+          "weightKg": 10
+        },
+        {
+          "id": "xm-hatien-xayto",
+          "label": "Xi măng Hà Tiên Xây Tô · Bao 50kg",
+          "sku": "XM-HT-XT",
+          "unit": "bao 50kg",
+          "price": 85000,
+          "stockQty": 100,
+          "weightKg": 10
+        },
+        {
+          "id": "xm-acifa-pcb40",
+          "label": "Xi măng Acifa PCB40 · Bao 50kg",
+          "sku": "XM-ACF-40",
+          "unit": "bao 50kg",
+          "price": 83000,
+          "stockQty": 100,
+          "weightKg": 10
+        }
+      ],
+      "specs": [
+        {
+          "label": "Thương hiệu phân phối",
+          "value": "Hà Tiên chính hãng · Acifa"
+        },
+        {
+          "label": "Tiêu chuẩn chất lượng",
+          "value": "TCVN 6260:2020"
+        },
+        {
+          "label": "Quy cách đóng gói",
+          "value": "50 kg / bao"
+        },
+        {
+          "label": "Ứng dụng chính",
+          "value": "Bê tông kết cấu & Vữa xây tô"
+        }
+      ]
+    },
+    "gach-ong-gach-dinh": {
+      "id": "gach-ong-gach-dinh",
+      "name": "Gạch ống, gạch đinh & gạch xây các loại",
+      "category": "aggregates",
+      "categoryLabel": "Cát, Đá & Gạch xây",
+      "brand": "Gạch Tuynel Bình Dương",
+      "shortDesc": "Gạch ống 4 lỗ đủ (8*18), gạch đinh đặc, ít vỡ cạnh khi vận chuyển.",
+      "fullDesc": "Gạch đất sét nung lò Tuynel đạt chuẩn xây dựng dân dụng và nhà xưởng. Giao lẻ theo thiên (1.000 viên) hoặc nguyên xe tải xếp gọn tại công trình.",
+      "image": "/api/uploads/1795360185044_243_images_edited.jpg",
+      "extraImages": [],
+      "imageAlt": "Gạch ống, gạch đinh & gạch xây các loại",
+      "availabilityText": "Còn hàng tại kho",
+      "leadTime": "Giao trong ngày",
+      "bulkNote": "Đơn giá tính theo lô 1.000 viên (1 thiên).",
+      "variants": [
+        {
+          "id": "gach-ong-4lo",
+          "label": "Gạch ống 4 lỗ Tuynel · Lô 1.000 viên",
+          "sku": "GX-ONG4-1K",
+          "unit": "1000viên",
+          "price": 12000,
+          "stockQty": 100,
+          "weightKg": 10
+        },
+        {
+          "id": "gach-dinh-dac",
+          "label": "Gạch đinh đặc (gạch thẻ) · Lô 1.000 viên",
+          "sku": "GX-DINH-1K",
+          "unit": "1000 viên",
+          "price": 11000,
+          "stockQty": 100,
+          "weightKg": 10
+        }
+      ],
+      "specs": [
+        {
+          "label": "Chủng loại",
+          "value": "Gạch ống 4 lỗ · Gạch đinh · Gạch 6 lỗ"
+        },
+        {
+          "label": "Kích thước gạch ống",
+          "value": "80 × 80 × 180 mm"
+        },
+        {
+          "label": "Định mức tường 10",
+          "value": "~55 viên / m²"
+        },
+        {
+          "label": "Hình thức giao",
+          "value": "Xe tải ben / Xe cẩu bốc pallet"
+        }
+      ]
+    },
+    "sat-thep-xay-dung": {
+      "id": "sat-thep-xay-dung",
+      "name": "Sắt thép xây dựng phi 6, 8, 10, 12, 14, 16...",
+      "category": "steel",
+      "categoryLabel": "Sắt thép & Hộp kẽm",
+      "brand": "Hòa Phát · Pomina · Việt Nhật",
+      "shortDesc": "Đầy đủ thép cuộn Ø6, Ø8 và thép cây gân Ø10, Ø12, Ø14, Ø16, Ø18, Ø20 chuẩn cây 11,7m.",
+      "fullDesc": "Sắt thép xây dựng chính hãng đủ ký, đủ ly, hỗ trợ giao xe cẩu tận công trình và cắt uốn theo yêu cầu. Đơn giá biến động theo thị trường được cửa hàng cập nhật trực tiếp mỗi ngày.",
+      "image": "/src/assets/images/product_steel_rebar_1795190797822.jpg",
+      "extraImages": [],
+      "imageAlt": "Sắt thép xây dựng phi 6, 8, 10, 12, 14, 16...",
+      "availabilityText": "Còn hàng tại kho",
+      "leadTime": "Xe cẩu giao trong ngày",
+      "bulkNote": "Đơn giá thép cập nhật theo ngày, liên hệ chốt đơn công trình.",
+      "variants": [
+        {
+          "id": "thep-phi-6",
+          "label": "Thép cuộn trơn Phi 6 (Ø6) · Tính theo kg",
+          "sku": "TH-P06",
+          "unit": "kg",
+          "price": 16500,
+          "stockQty": 100,
+          "weightKg": 10
+        },
+        {
+          "id": "thep-phi-8",
+          "label": "Thép cuộn trơn/gân Phi 8 (Ø8) · Tính theo kg",
+          "sku": "TH-P08",
+          "unit": "kg",
+          "price": 16500,
+          "stockQty": 100,
+          "weightKg": 10
+        },
+        {
+          "id": "thep-phi-10",
+          "label": "Thép cây vằn Phi 10 (Ø10) · Cây 11,7m",
+          "sku": "TH-P10",
+          "unit": "cây 11,7m",
+          "price": 118000,
+          "stockQty": 100,
+          "weightKg": 10
+        },
+        {
+          "id": "thep-phi-12",
+          "label": "Thép cây vằn Phi 12 (Ø12) · Cây 11,7m",
+          "sku": "TH-P12",
+          "unit": "cây 11,7m",
+          "price": 170000,
+          "stockQty": 100,
+          "weightKg": 10
+        },
+        {
+          "id": "thep-phi-14",
+          "label": "Thép cây vằn Phi 14 (Ø14) · Cây 11,7m",
+          "sku": "TH-P14",
+          "unit": "cây 11,7m",
+          "price": 232000,
+          "stockQty": 100,
+          "weightKg": 10
+        },
+        {
+          "id": "thep-phi-16",
+          "label": "Thép cây vằn Phi 16 (Ø16) · Cây 11,7m",
+          "sku": "TH-P16",
+          "unit": "cây 11,7m",
+          "price": 304000,
+          "stockQty": 100,
+          "weightKg": 10
+        }
+      ],
+      "specs": [
+        {
+          "label": "Chủng loại",
+          "value": "Cuộn Ø6, Ø8 & Cây Ø10 – Ø20"
+        },
+        {
+          "label": "Chiều dài thép cây",
+          "value": "11,7 m / cây"
+        },
+        {
+          "label": "Mác thép tiêu chuẩn",
+          "value": "CB240-T / CB300-V / CB400-V"
+        },
+        {
+          "label": "Hỗ trợ vận chuyển",
+          "value": "Xe tải / Xe cẩu tận bãi"
+        }
+      ]
+    },
+    "dai-ly-keo-weber": {
+      "id": "dai-ly-keo-weber",
+      "name": "Keo dán gạch",
+      "category": "cat-san-pham-keo-weber",
+      "categoryLabel": "Sản phẩm keo Weber",
+      "brand": "Weber (Saint-Gobain)",
+      "shortDesc": "Keo dán gạch Weber.tai fix, tai vis, tai gres chống bong tróc & keo chà ron Webercolor.",
+      "fullDesc": "VLXD Huệ Hảo là đại lý phân phối keo Weber chính hãng từ tập đoàn Saint-Gobain. Giải pháp ốp lát gạch khổ lớn, gạch ít hút nước Porcelain, khu vực ẩm ướt và hồ bơi đạt độ bám dính gấp đôi hồ dầu truyền thống.",
+      "image": "/api/uploads/1795360372807_617_images__1__edited.jpg",
+      "extraImages": [],
+      "imageAlt": "Keo dán gạch",
+      "availabilityText": "Đại lý chính hãng",
+      "leadTime": "Giao trong 2–4 giờ",
+      "bulkNote": "Định mức 1 bao 25kg dán khoảng 5 – 6 m² gạch.",
+      "variants": [
+        {
+          "id": "weber-tai-fix-25kg",
+          "label": "Keo dán gạch Weber.tai fix (Nội thất) · Bao 25kg",
+          "sku": "WB-FIX-25",
+          "unit": "bao 25kg",
+          "price": 225000,
+          "stockQty": 100,
+          "weightKg": 10
+        },
+        {
+          "id": "weber-tai-vis-25kg",
+          "label": "Keo dán gạch Weber.tai vis (Ngoại thất/WC) · Bao 25kg",
+          "sku": "WB-VIS-25",
+          "unit": "bao 25kg",
+          "price": 265000,
+          "stockQty": 100,
+          "weightKg": 10
+        },
+        {
+          "id": "weber-tai-gres-25kg",
+          "label": "Keo dán gạch khổ lớn Weber.tai gres · Bao 25kg",
+          "sku": "WB-GRES-25",
+          "unit": "bao 25kg",
+          "price": 460000,
+          "stockQty": 100,
+          "weightKg": 10
+        },
+        {
+          "id": "weber-color-power-1kg",
+          "label": "Keo chà ron siêu trắng cao cấp Weber · Gói 1kg",
+          "sku": "WB-RON-1KG",
+          "unit": "gói 1kg",
+          "price": 33000,
+          "stockQty": 100,
+          "weightKg": 10
+        }
+      ],
+      "specs": [
+        {
+          "label": "Thương hiệu",
+          "value": "Weber · Saint-Gobain chính hãng"
+        },
+        {
+          "label": "Định mức dán",
+          "value": "~4 – 5 kg / m² (5–6 m²/bao 25kg)"
+        },
+        {
+          "label": "Thời gian chỉnh gạch",
+          "value": "Trong vòng 15 phút"
+        },
+        {
+          "label": "Ưu điểm",
+          "value": "Chống bong tróc, không co ngót, thi công sạch"
+        }
+      ]
+    }
+  },
+  "primaryImageOverrides": {
+    "xi-mang-ha-tien-acifa": "/uploads/1795358498122_986_xi-mang-vicem-pcb40_fdf305337291.jpg",
+    "gach-ong-gach-dinh": "/api/uploads/1795360185044_243_images_edited.jpg",
+    "sat-thep-xay-dung": "/src/assets/images/product_steel_rebar_1795190797822.jpg",
+    "dai-ly-keo-weber": "/api/uploads/1795360372807_617_images__1__edited.jpg"
+  },
+  "extraImagesByProduct": {
+    "xi-mang-ha-tien-acifa": [],
+    "gach-ong-gach-dinh": [],
+    "sat-thep-xay-dung": [],
+    "dai-ly-keo-weber": []
+  }
+}

@@ -1,0 +1,94 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Merriweather", Georgia, "Times New Roman", serif;
+  --font-sans: "Be Vietnam Pro", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+:root,
+[data-theme="red-cream"] {
+  --theme-bg: #FAF4EA;
+  --theme-surface: #FFFFFF;
+  --theme-surface-alt: #F3E8D8;
+  --theme-surface-muted: #EBE0CF;
+  --theme-ink: #1B1414;
+  --theme-ink-soft: #4F4343;
+  --theme-muted: #6B5C5C;
+  --theme-border: rgba(27, 20, 20, 0.12);
+
+  /* Brand Band (Header, Hero, Footer): Deep Crimson Red + Cream/White ink */
+  --theme-brand-bg: #8E151B;
+  --theme-brand-bg-alt: #711015;
+  --theme-brand-ink: #FFFFFF;
+  --theme-brand-soft: #FCE8D8;
+  --theme-brand-muted: #F3CFC2;
+  --theme-brand-border: rgba(255, 255, 255, 0.18);
+
+  /* Primary Action Accent */
+  --theme-accent: #C41E25;
+  --theme-accent-hover: #9E161C;
+  --theme-accent-ink: #FFFFFF;
+  --theme-highlight: #FDE09B;
+  --theme-highlight-ink: #5A1215;
+  --theme-success: #186A42;
+}
+
+[data-theme="blue-gold"] {
+  --theme-bg: #F3F6FB;
+  --theme-surface: #FFFFFF;
+  --theme-surface-alt: #E6EEF9;
+  --theme-surface-muted: #DCE6F5;
+  --theme-ink: #0D1B36;
+  --theme-ink-soft: #38496B;
+  --theme-muted: #566789;
+  --theme-border: rgba(13, 27, 54, 0.12);
+
+  /* Brand Band (Header, Hero, Footer): Deep Cobalt Navy + White/Gold ink */
+  --theme-brand-bg: #0D2E66;
+  --theme-brand-bg-alt: #08204B;
+  --theme-brand-ink: #FFFFFF;
+  --theme-brand-soft: #FDE047;
+  --theme-brand-muted: #C9DAFA;
+  --theme-brand-border: rgba(255, 255, 255, 0.18);
+
+  /* Primary Action Accent */
+  --theme-accent: #164EB3;
+  --theme-accent-hover: #0F3B8C;
+  --theme-accent-ink: #FFFFFF;
+  --theme-highlight: #FACC15;
+  --theme-highlight-ink: #0A224E;
+  --theme-success: #156A46;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-sans);
+  }
+
+  body {
+    background-color: var(--theme-bg);
+    color: var(--theme-ink);
+  }
+
+  h1, h2 {
+    font-family: var(--font-display);
+    letter-spacing: 0;
+  }
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
