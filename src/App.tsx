@@ -234,7 +234,7 @@ export default function App() {
 
   const [activeCategory, setActiveCategory] = useState<MaterialCategory>('all');
   const [searchQuery, setSearchQuery] = useState('');
-  const [sortBy, setSortBy] = useState<SortOption>('default');
+  const [sortBy, setSortBy] = useState<SortOption>('price-asc');
   const [currentPage, setCurrentPage] = useState<number>(1);
 
   const [selectedProductId, setSelectedProductId] = useState<string | null>(null);

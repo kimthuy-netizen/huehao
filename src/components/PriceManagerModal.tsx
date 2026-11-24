@@ -1084,7 +1084,7 @@ export function PriceManagerModal({
 
               <div>
                 <label htmlFor="owner-pin-input" className="block text-xs font-medium mb-1.5">
-                  Mã PIN quản lý (mặc định ban đầu: <span className="font-mono font-bold">1234</span>)
+                  Nhập mật khẩu
                 </label>
                 <input
                   id="owner-pin-input"

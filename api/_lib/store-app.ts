@@ -294,15 +294,15 @@ async function getOwnerPin(): Promise<string> {
     ? bundledPinFile
     : null;
   if (!targetFile) {
-    return (process.env.OWNER_PIN_DEFAULT || '1234').trim() || '1234';
+    return (process.env.OWNER_PIN_DEFAULT || '010172').trim() || '010172';
   }
   try {
     const parsed = JSON.parse(fs.readFileSync(targetFile, 'utf-8')) as { pin?: string };
     return typeof parsed.pin === 'string' && parsed.pin.trim().length > 0
       ? parsed.pin.trim()
-      : '1234';
+      : '010172';
   } catch {
-    return '1234';
+    return '010172';
   }
 }
 

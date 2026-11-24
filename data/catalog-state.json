@@ -287,7 +287,7 @@
       "variants": [
         {
           "id": "thep-phi-6",
-          "label": "Thép cuộn trơn Phi 6 (Ø6) · Tính theo kg",
+          "label": "Sắt 6 cuộn (Ø6) · Tính theo kg",
           "sku": "TH-P06",
           "unit": "kg",
           "price": 16500,
@@ -296,7 +296,7 @@
         },
         {
           "id": "thep-phi-8",
-          "label": "Thép cuộn trơn/gân Phi 8 (Ø8) · Tính theo kg",
+          "label": "Sắt 8 cuộn gân (Ø8) · Tính theo kg",
           "sku": "TH-P08",
           "unit": "kg",
           "price": 16500,
